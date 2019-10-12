@@ -1,0 +1,22 @@
+.btn-basic {
+    border-radius: 4px;
+    padding: 5px 10px;
+}
+
+.btn-done {
+    border: 1px solid #43a047;
+    background: #a5d6a7;
+
+    &:hover {
+        background: #2e7d32;
+    }
+}
+
+.btn-to-do {
+    border: 1px solid #d84315;
+    background: #ff3d00;
+
+    &:hover {
+        background: #d84315;
+    }
+}

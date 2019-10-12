@@ -1,0 +1,14 @@
+body {
+  background: #e1e2e1;
+  margin: 0;
+  font-family: Arial, Helvetica;
+}
+
+.container {
+  width: 75%;
+  margin: 15px auto;
+}
+
+.text-capitalize {
+  text-transform: capitalize;
+}
